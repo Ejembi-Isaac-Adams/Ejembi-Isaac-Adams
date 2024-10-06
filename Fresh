@@ -1,0 +1,7 @@
+echo "# Ejembi-Isaac-Adams" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ejembi-Isaac-Adams/Ejembi-Isaac-Adams.git
+git push -u origin main
